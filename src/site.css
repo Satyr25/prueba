@@ -1,0 +1,68 @@
+.container{
+    margin: 2vh 8%;
+}
+nav{
+    display: flex;
+}
+nav > ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+nav > ul > li{
+    padding: 5px 30px;
+    margin: 0 20px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: gray;
+}
+.menu-container{
+    padding: 5px 20px;
+    width: 100px;
+}
+.submenu-container{
+    margin: 8px 0;
+}
+.add-btn{
+    background-color: #babaf7;
+    padding: 5px 20px;
+    margin: 10px 0;
+    border: 1px solid black;
+}
+.table-head, form{
+    margin-top: 15vh;
+}
+table {
+    margin-top: 15px;
+}
+td{
+    padding: 5px 20px;
+}
+.action-btn{
+    background-color: #babaf7;
+    padding: 5px 20px;
+    margin: 10px 0;
+    border: 1px solid black;
+}
+.input-form{
+    width: 250px;
+}
+.nav-left{
+    width: 20%;
+}
+.nav-menu{
+    width: 80%;
+    display: flex;
+}
+h1, h2{
+    text-align: center;
+}
+h1{
+    margin-top: 15vh;
+}

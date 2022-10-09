@@ -1,0 +1,5 @@
+1. Importar base de datos mysql
+2. La entrada es por las vistas es decir el home es:
+	http://localhost/test/views/menu/
+
+Saludos
